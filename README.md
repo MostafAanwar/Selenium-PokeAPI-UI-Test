@@ -46,11 +46,10 @@ or
 pytest -s tests/
 ```
 
-## 🧠 Possible Extensions
+##  Possible Extensions
 
 - Use [https://pokemondb.net/pokedex](https://pokemondb.net/pokedex) for real UI interaction.
 - Add Pokémon detail validation.
 - Include negative test cases (e.g., invalid Pokémon names).
 
 ---
-Created by: FancyPixel – QA Automation with a twist of fun! 🎮
